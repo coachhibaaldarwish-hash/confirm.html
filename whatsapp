@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>أنتِ على بُعد خطوة واحدة</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    background: #0f1720;
+    color: #ffffff;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 60px 20px;
+}
+
+.badge {
+    display: inline-block;
+    padding: 10px 24px;
+    border-radius: 50px;
+    background: rgba(129, 216, 208, 0.15);
+    color: #81D8D0;
+    font-size: 14px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+
+.highlight {
+    color: #81D8D0;
+}
+
+.card {
+    background: linear-gradient(145deg, #16212b, #0f1720);
+    padding: 45px 25px;
+    border-radius: 20px;
+    border: 1px solid rgba(129, 216, 208, 0.3);
+    box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+}
+
+.card h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.card p {
+    font-size: 18px;
+    line-height: 1.7;
+    color: #e5e5e5;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 18px 50px;
+    background: #81D8D0;
+    color: #0f1720;
+    font-weight: 600;
+    border-radius: 14px;
+    text-decoration: none;
+    font-size: 18px;
+    transition: 0.3s ease;
+}
+
+.btn:hover {
+    background: #6fcfc7;
+}
+
+.small-text {
+    margin-top: 25px;
+    font-size: 14px;
+    color: #aaaaaa;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="badge">
+1 Million Brand
+</div>
+
+<h1>
+أنتِ على بُعد <span class="highlight">خطوة واحدة</span> من تأكيد حضورك
+</h1>
+
+<div class="card">
+
+<h2>انضمي إلى قناة الواتساب الآن</h2>
+
+<p>
+هنا سيتم مشاركة جميع الروابط والتحديثات والمفاجآت الخاصة بالبث المباشر.
+عدم انضمامك يعني أنكِ لن تستلمي تفاصيل الدخول.
+</p>
+
+<a class="btn" href="https://chat.whatsapp.com/HUZEpqvi1nHI4WP7LIaA2F" target="_blank">
+انضمي الآن
+</a>
+
+<div class="small-text">
+تأكدي من الدخول للقناة حتى لا تفوتك أي تفاصيل مهمة.
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
